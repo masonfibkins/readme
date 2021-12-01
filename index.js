@@ -43,9 +43,10 @@ const questions = [
         name: 'credit',
     },
     {
-        type: 'input',
-        message: "Provide license link",
+        type: 'rawlist',
         name: 'license',
+        message: 'Which open source license would you like to use? ',
+        choices: ['Apache 2.0', 'BSD 2-Clause', 'BSD 3-Clause', 'GNU AGPLv3.0', 'GNU GPLv2.0', 'GNU GPLv3.0', 'MIT', 'Mozilla Public 2.0'],
     },
     // {
     //     type: 'input',

@@ -1,13 +1,13 @@
-# README
+# readme
 
 ## Description
-generates readme file
+n
 
 ## Installation
-use node and filename in terminal
+n
 
 ## Usage
-![Screenshot](screenshot.png)
+n
 
 ## License 
-Licensed under the n/a License. Copyright © 2021
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) License. Copyright © 2021
