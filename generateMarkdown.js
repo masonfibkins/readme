@@ -59,7 +59,7 @@ const generateMarkdown = (data) => {
     }
 
       //Add a license section
-  readmeTemplate += `\n## License \n${licenseBadge} License. Copyright \u00A9 ${year.getFullYear()}\n`;
+  readmeTemplate += `\n## License \n${licenseBadge} Copyright \u00A9 ${year.getFullYear()}\n`;
 
   return readmeTemplate;
 };
