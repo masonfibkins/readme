@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/masonfibkins/readme#readme",
   "dependencies": {
+    "chalk": "^5.0.0",
     "fs": "^0.0.1-security",
     "inquirer": "^8.2.0"
   }
