@@ -7,7 +7,7 @@ The object of this assignment was to make an application to create a README file
 To install simply download the index.js and generateMarkdown.js. Then make sure you have the inquirer and fs npm. Then you just use the terminal by calling node then index.js to bring up the questions to fill in.
 
 ## Walkthrough Video
-![Walkthrough Video](https://www.youtube.com/watch?v=Du9muGqPIfE&ab_channel=designfoundations1100)
+[Walkthrough Video](https://www.youtube.com/watch?v=Du9muGqPIfE&ab_channel=designfoundations1100)
 
 ## Usage
 ![Screenshot](screenshot.png)
