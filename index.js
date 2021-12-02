@@ -9,7 +9,7 @@ const welcome = [
         type: 'confirm',
         prefix: '\b',
         name: 'welcome',
-        message: "Thanks for using my README.md generator! You will be presented with options for your README's sections and their respective contents. To begin hit 'y' or enter.",
+        message: "Welcome to the README generator. To begin hit 'y' or enter.",
 
     }
 ];
